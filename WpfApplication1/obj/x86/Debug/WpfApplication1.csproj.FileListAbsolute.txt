@@ -1,0 +1,104 @@
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\WpfApplication1.exe.config
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\WpfApplication1.exe
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\WpfApplication1.pdb
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\StyleTemplate.baml
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\CustomManipulation.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\CustomManipulation.baml
+C:\Users\Andrea\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.exe.config
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.exe
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.pdb
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\StyleTemplate.baml
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\App.baml
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\CustomManipulation.g.cs
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\CustomManipulation.baml
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.exe.config
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\StyleTemplate.baml
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\App.baml
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\CustomManipulation.g.cs
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.exe
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.pdb
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\CustomManipulation.baml
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrea\Dropbox\Università\Tesi\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.exe.config
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+F:\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.exe
+F:\Nuova cartella\WpfApplication1\bin\x86\Debug\WpfApplication1.pdb
+F:\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+F:\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+F:\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+F:\Nuova cartella\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\StyleTemplate.baml
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\MainWindow.baml
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\App.baml
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\App.g.cs
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+F:\Nuova cartella\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\WpfApplication1.exe.config
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\WpfApplication1.exe
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\WpfApplication1.pdb
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\App.baml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\Smart Mirror.csproj.GenerateResource.Cache
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Smart Mirror.exe.config
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Smart Mirror.exe
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Debug\Smart Mirror.pdb
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\Smart Mirror_MarkupCompile.cache
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\Smart Mirror.g.resources
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\Smart Mirror.exe
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\Smart Mirror.pdb
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Debug\Smart Mirror.csprojResolveAssemblyReference.cache

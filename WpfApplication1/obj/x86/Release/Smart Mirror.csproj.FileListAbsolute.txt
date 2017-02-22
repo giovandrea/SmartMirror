@@ -1,0 +1,17 @@
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Release\Smart Mirror.exe.config
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Release\Smart Mirror.exe
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Release\Smart Mirror.pdb
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Release\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Release\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Release\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\bin\x86\Release\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\Smart Mirror_MarkupCompile.cache
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\Smart Mirror.g.resources
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\SmartMirror.Properties.Resources.resources
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\Smart Mirror.csproj.GenerateResource.Cache
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\Smart Mirror.exe
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\Smart Mirror.pdb
+C:\Users\Andrea\Dropbox\Università\Progetto 13 07\WpfApplication1\obj\x86\Release\Smart Mirror.csprojResolveAssemblyReference.cache
